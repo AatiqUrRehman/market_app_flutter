@@ -1,16 +1,29 @@
-# nui_user
+# Super Market App
 
-A new Flutter project.
+# Overview
+This repo contains such nice UI design of a market place where customer can enter their budget and within that budget we let them to shop.
 
-## Getting Started
+# Screens
+1. Splash Screen
+2. Landing Screen(let the customer to select city)
+3. Login Screen
+4. User Registration Screen
+5. Phone Verification Screen
+6. Setting Tottal Budget Screen
+7. All Near b Brands (Markets)
+8. Detail of Brand
+9. Brand Items
+10. Cart
+11. App Drawer
+12. Setting Screen
+13. User Profile
+14. Edit User Profile
+15. Help Screen
 
-This project is a starting point for a Flutter application.
+# Screens
+![alt text](https://github.com/AatiqUrRehman/market_app_flutter/blob/master/assets/refrence_image.jpg)
 
-A few resources to get you started if this is your first Flutter project:
+Show some ❤️ and star the repo to support the project
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Thanks for checking out repo any kind of suggestion and improvement will be really appreciated, and i hope my work deserve atlease one ⭐
+Looking for Flutter Developer? Let me Know Please. 
