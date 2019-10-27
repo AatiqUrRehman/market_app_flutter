@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "852716542631",
+    "firebase_url": "https://nuisuper-c51dc.firebaseio.com",
+    "project_id": "nuisuper-c51dc",
+    "storage_bucket": "nuisuper-c51dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852716542631:android:efaeb0b69cc0f2e7305982",
+        "android_client_info": {
+          "package_name": "com.example.nui_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852716542631-2gj2d492hgncm9ei087l79pqne691urs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nui_user",
+            "certificate_hash": "a4ed5994b70e78b4622ca1910f54715e9f32cb7b"
+          }
+        },
+        {
+          "client_id": "852716542631-drba0pphnkod1nbfpm4tinjslb6afbg9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVrpM8tPAzXZ8BfJmIJr14eHHHNhiv2Oc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852716542631-drba0pphnkod1nbfpm4tinjslb6afbg9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "852716542631-vofbo9q1rg4htqjlau8nqmuos71acfh4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nuiUser"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
